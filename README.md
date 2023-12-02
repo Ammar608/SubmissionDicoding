@@ -11,4 +11,5 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 /cd dashboard
 streamlit run dashboard.py
 ```
-
+**Link Streamlit Cloud**
+[Streamlit Cloud](https://app-apbjvednhmihsesamgqfmy.streamlit.app/)
