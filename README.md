@@ -6,5 +6,5 @@
 ```
 **Run Streamlitt**
 
-``1streamlit run dashboard.py
+```streamlit run dashboard.py
 
