@@ -7,5 +7,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 **Run Streamlitt**
 
-```streamlit run dashboard.py
+```
+streamlit run dashboard.py
+```
 
